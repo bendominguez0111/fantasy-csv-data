@@ -4,6 +4,16 @@ If you are looking to run the scripts we've provided for locally updating fantas
 
     pip install -r requirements.txt
 
+## Strength of Schedule data
+Strength of Schedule data is available in the sos directory. Data is available going back to 1999. To load this data in pandas using the following the following url format:
+https://raw.githubusercontent.com/fantasydatapros/data/master/sos/{year}.csv
+
+For example, in pandas do the following:
+
+    import pandas as pd
+    df = pd.read_csv('https://raw.githubusercontent.com/fantasydatapros/data/master/sos/1999.csv', index_col=0)
+    df.index = df.index.rename('Team')
+
 ## 2019 play by play data
 2019 play by play data is exposed through this url:
 https://raw.githubusercontent.com/fantasydatapros/data/master/2019pbp.csv
