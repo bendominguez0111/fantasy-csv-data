@@ -5,7 +5,7 @@ If you are looking to run the scripts we've provided for locally updating fantas
     pip install -r requirements.txt
 
 ## 2009 - 2018 play by play data
-Play by play data going back to 2009 is provided courtesy
+Play by play data going back to 2009 is provided via Kaggle. To load the data 
 
 ## 2019 play by play data
 2019 play by play data is exposed through this url:
