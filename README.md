@@ -8,6 +8,15 @@ If you are looking to run the scripts we've provided for locally updating fantas
 
 Play by play data joined with player stats (eg. RushingYds/RushingAtt) and defense stats (eg. RushingTDAllowed) for every rushing play in 2019. The CSV file is located in the project directory root - `combinedrushing2019.csv`.
 
+It can be accessed at this url
+
+https://raw.githubusercontent.com/fantasydatapros/data/master/combinedrushing2019.csv
+
+For loading in pandas, do the following:
+
+    import pandas as pd
+    df = pd.read_csv('https://raw.githubusercontent.com/fantasydatapros/data/master/combinedrushing2019.csv', index_col=0)
+
 For the Formation, RushDirection, and PlayType columns, here are the encoders:
 
 **Formation**
