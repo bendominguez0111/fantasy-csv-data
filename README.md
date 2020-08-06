@@ -4,6 +4,41 @@ If you are looking to run the scripts we've provided for locally updating fantas
 
     pip install -r requirements.txt
 
+## Combined 2019 Play by Play data, opposing defense stats, and player stats
+
+Play by play data joined with player stats (eg. RushingYds/RushingAtt) and defense stats (eg. RushingTDAllowed) for every rushing play in 2019. The CSV file is located in the project directory root - `combinedrushing2019.csv`.
+
+For the Formation, RushDirection, and PlayType columns, here are the encoders:
+
+**Formation**
+
+| FORMATION ORIGINAL VALUE    | ENCODER |
+|-------------------|---------|
+| NO HUDDLE         | 0       |
+| UNDER CENTER      | 1       |
+| SHOTGUN           | 2       |
+| NO HUDDLE SHOTGUN | 3       |
+| WILDCAT           | 4       |
+
+**RushDirection**
+
+|RUSH DIRECTION ORIGINAL VALUE | ENCODER |
+|-------------------|----------|
+|RIGHT GUARD| 0
+|RIGHT TACKLE| 1
+|LEFT END| 2
+|LEFT TACKLE| 3
+|RIGHT END| 4
+|LEFT GUARD| 5
+|CENTER| 6
+
+**PlayType**
+
+|PLAY TYPE ORIGINAL VALUE | ENCODER |
+|-------------------|----------|
+|SCRAMBLE| 0
+|RUSH| 1
+
 ## Strength of Schedule data
 Strength of Schedule data is available in the sos directory. Data is available going back to 1999. To load this data in pandas using the following the following url format:
 https://raw.githubusercontent.com/fantasydatapros/data/master/sos/{year}.csv
