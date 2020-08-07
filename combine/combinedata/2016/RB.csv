@@ -1,20 +1,20 @@
-,Rk,Year,Player,Pos,Age,AV,School,College,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
-0,1,2016,Jonathan Williams,RB,22,3,Arkansas,College Stats,5-11,220,4.56,,16.0,,,,Buffalo Bills / 5th / 156th pick / 2016
-1,2,2016,Brandon Wilds,RB,22,0,South Carolina,College Stats,6-1,220,4.54,36.5,21.0,118.0,7.08,4.33,
-2,3,2016,Deandre Washington,RB,23,12,Texas Tech,College Stats,5-8,204,4.49,34.5,24.0,116.0,7.03,4.2,Oakland Raiders / 5th / 143rd pick / 2016
-3,4,2016,Wendell Smallwood,RB,22,10,West Virginia,College Stats,5-10,208,4.47,33.5,14.0,120.0,6.83,4.28,Philadelphia Eagles / 5th / 153rd pick / 2016
-4,5,2016,C.J. Prosise,RB,21,5,Notre Dame,College Stats,6-0,220,4.48,35.5,,121.0,,,Seattle Seahawks / 3rd / 90th pick / 2016
-5,6,2016,Paul Perkins,RB,21,5,UCLA,College Stats,5-10,208,4.54,32.0,19.0,124.0,,,New York Giants / 5th / 149th pick / 2016
-6,7,2016,Tre Madden,RB,22,1,USC,College Stats,6-0,223,4.53,,24.0,,,,
-7,8,2016,Daniel Lasco,RB,23,0,California,College Stats,6-0,209,4.46,41.5,23.0,135.0,7.22,4.26,New Orleans Saints / 7th / 237th pick / 2016
-8,9,2016,Jordan Howard,RB,21,26,Indiana,College Stats,6-0,230,4.57,34.0,16.0,122.0,,,Chicago Bears / 5th / 150th pick / 2016
-9,10,2016,Derrick Henry,RB,22,29,Alabama,College Stats,6-3,247,4.54,37.0,22.0,130.0,7.2,4.38,Tennessee Titans / 2nd / 45th pick / 2016
-10,11,2016,Josh Ferguson,RB,22,1,Illinois,College Stats,5-9,198,4.48,34.5,21.0,120.0,,,
-11,12,2016,Tyler Ervin,RB,22,0,San Jose State,College Stats,5-10,192,4.41,39.0,17.0,130.0,,,Houston Texans / 4th / 119th pick / 2016
-12,13,2016,Ezekiel Elliott,RB,20,52,Ohio State,College Stats,6-0,225,4.47,32.5,,118.0,,,Dallas Cowboys / 1st / 4th pick / 2016
-13,14,2016,Kenyan Drake,RB,22,23,Alabama,College Stats,6-1,210,4.45,34.5,10.0,123.0,7.04,4.21,Miami Dolphins / 3rd / 73rd pick / 2016
-14,15,2016,Kenneth Dixon,RB,22,5,Louisiana Tech,College Stats,5-10,215,4.56,37.5,18.0,121.0,6.97,4.28,Baltimore Ravens / 4th / 134th pick / 2016
-15,16,2016,Alex Collins,RB,21,14,Arkansas,College Stats,5-10,217,4.59,28.5,18.0,113.0,,,Seattle Seahawks / 5th / 171st pick / 2016
-16,17,2016,Tra Carson,RB,23,0,Texas A&M,College Stats,5-11,227,4.63,,19.0,,,,
-17,18,2016,Devontae Booker,RB,23,12,Utah,College Stats,5-11,219,4.56,,22.0,,,,Denver Broncos / 4th / 136th pick / 2016
-18,19,2016,Peyton Barber,RB,22,13,Auburn,College Stats,5-10,228,4.64,32.5,20.0,111.0,7.0,4.21,
+,Rk,Year,Player,Pos,Age,AV,School,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+0,1,2016,Jonathan Williams,RB,22,3,Arkansas,5-11,220,4.56,,16.0,,,,Buffalo Bills / 5th / 156th pick / 2016
+1,2,2016,Brandon Wilds,RB,22,0,South Carolina,6-1,220,4.54,36.5,21.0,118.0,7.08,4.33,
+2,3,2016,Deandre Washington,RB,23,12,Texas Tech,5-8,204,4.49,34.5,24.0,116.0,7.03,4.2,Oakland Raiders / 5th / 143rd pick / 2016
+3,4,2016,Wendell Smallwood,RB,22,10,West Virginia,5-10,208,4.47,33.5,14.0,120.0,6.83,4.28,Philadelphia Eagles / 5th / 153rd pick / 2016
+4,5,2016,C.J. Prosise,RB,21,5,Notre Dame,6-0,220,4.48,35.5,,121.0,,,Seattle Seahawks / 3rd / 90th pick / 2016
+5,6,2016,Paul Perkins,RB,21,5,UCLA,5-10,208,4.54,32.0,19.0,124.0,,,New York Giants / 5th / 149th pick / 2016
+6,7,2016,Tre Madden,RB,22,1,USC,6-0,223,4.53,,24.0,,,,
+7,8,2016,Daniel Lasco,RB,23,0,California,6-0,209,4.46,41.5,23.0,135.0,7.22,4.26,New Orleans Saints / 7th / 237th pick / 2016
+8,9,2016,Jordan Howard,RB,21,26,Indiana,6-0,230,4.57,34.0,16.0,122.0,,,Chicago Bears / 5th / 150th pick / 2016
+9,10,2016,Derrick Henry,RB,22,29,Alabama,6-3,247,4.54,37.0,22.0,130.0,7.2,4.38,Tennessee Titans / 2nd / 45th pick / 2016
+10,11,2016,Josh Ferguson,RB,22,1,Illinois,5-9,198,4.48,34.5,21.0,120.0,,,
+11,12,2016,Tyler Ervin,RB,22,0,San Jose State,5-10,192,4.41,39.0,17.0,130.0,,,Houston Texans / 4th / 119th pick / 2016
+12,13,2016,Ezekiel Elliott,RB,20,52,Ohio State,6-0,225,4.47,32.5,,118.0,,,Dallas Cowboys / 1st / 4th pick / 2016
+13,14,2016,Kenyan Drake,RB,22,23,Alabama,6-1,210,4.45,34.5,10.0,123.0,7.04,4.21,Miami Dolphins / 3rd / 73rd pick / 2016
+14,15,2016,Kenneth Dixon,RB,22,5,Louisiana Tech,5-10,215,4.56,37.5,18.0,121.0,6.97,4.28,Baltimore Ravens / 4th / 134th pick / 2016
+15,16,2016,Alex Collins,RB,21,14,Arkansas,5-10,217,4.59,28.5,18.0,113.0,,,Seattle Seahawks / 5th / 171st pick / 2016
+16,17,2016,Tra Carson,RB,23,0,Texas A&M,5-11,227,4.63,,19.0,,,,
+17,18,2016,Devontae Booker,RB,23,12,Utah,5-11,219,4.56,,22.0,,,,Denver Broncos / 4th / 136th pick / 2016
+18,19,2016,Peyton Barber,RB,22,13,Auburn,5-10,228,4.64,32.5,20.0,111.0,7.0,4.21,

@@ -1,17 +1,17 @@
-,Rk,Year,Player,Pos,Age,AV,School,College,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
-0,1,2006,Cooper Wallace,TE,23,0,Auburn,College Stats,6-4,261,4.78,29.0,21.0,105.0,7.29,4.21,
-1,2,2006,David Thomas,TE,22,10,Texas,College Stats,6-3,252,4.67,37.5,19.0,113.0,7.05,4.34,New England Patriots / 3rd / 86th pick / 2006
-2,3,2006,Quinn Sypniewski,TE,23,2,Colorado,College Stats,6-6,268,4.77,32.5,20.0,114.0,7.09,4.52,Baltimore Ravens / 5th / 166th pick / 2006
-3,4,2006,Tony Scheffler,TE,23,28,West. Michigan,College Stats,6-5,254,4.54,33.5,17.0,115.0,6.81,4.01,Denver Broncos / 2nd / 61st pick / 2006
-4,5,2006,Leonard Pope,TE,22,7,Georgia,College Stats,6-8,258,4.62,37.5,22.0,118.0,7.47,4.67,Arizona Cardinals / 3rd / 72nd pick / 2006
-5,6,2006,Jason Pociask,TE,23,0,Wisconsin,College Stats,6-3,266,4.84,32.5,23.0,115.0,7.31,4.3,New York Jets / 5th / 150th pick / 2006
-6,7,2006,Tim Massaquoi,TE,23,0,Michigan,College Stats,6-3,259,4.85,,32.0,,,,Tampa Bay Buccaneers / 7th / 244th pick / 2006
-7,8,2006,Marcedes Lewis,TE,21,41,UCLA,College Stats,6-6,261,4.8,37.0,23.0,118.0,7.24,4.82,Jacksonville Jaguars / 1st / 28th pick / 2006
-8,9,2006,Joe Klopfenstein,TE,22,3,Colorado,College Stats,6-6,255,4.63,36.0,27.0,112.0,7.39,4.21,St. Louis Rams / 2nd / 46th pick / 2006
-9,10,2006,Jeff King,TE,23,11,Virginia Tech,College Stats,6-5,245,4.83,32.5,21.0,109.0,6.99,4.09,Carolina Panthers / 5th / 155th pick / 2006
-10,11,2006,Daniel Fells,TE,22,12,California-Davis,,6-3,259,4.95,29.5,19.0,108.0,7.27,4.46,
-11,12,2006,Anthony Fasano,TE,21,29,Notre Dame,College Stats,6-4,259,4.72,33.5,19.0,112.0,6.94,4.34,Dallas Cowboys / 2nd / 53rd pick / 2006
-12,13,2006,Vernon Davis,TE,22,65,Maryland,College Stats,6-3,254,4.38,42.0,33.0,128.0,7.0,4.17,San Francisco 49ers / 1st / 6th pick / 2006
-13,14,2006,Owen Daniels,TE,23,49,Wisconsin,College Stats,6-3,253,4.65,34.5,23.0,114.0,6.87,4.1,Houston Texans / 4th / 98th pick / 2006
-14,15,2006,Dominique Byrd,TE,22,0,USC,College Stats,6-3,255,4.79,,,,,,St. Louis Rams / 3rd / 93rd pick / 2006
-15,16,2006,Troy Bienemann,TE,23,0,Washington State,College Stats,6-5,256,4.8,,,,,,
+,Rk,Year,Player,Pos,Age,AV,School,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+0,1,2006,Cooper Wallace,TE,23,0,Auburn,6-4,261,4.78,29.0,21.0,105.0,7.29,4.21,
+1,2,2006,David Thomas,TE,22,10,Texas,6-3,252,4.67,37.5,19.0,113.0,7.05,4.34,New England Patriots / 3rd / 86th pick / 2006
+2,3,2006,Quinn Sypniewski,TE,23,2,Colorado,6-6,268,4.77,32.5,20.0,114.0,7.09,4.52,Baltimore Ravens / 5th / 166th pick / 2006
+3,4,2006,Tony Scheffler,TE,23,28,West. Michigan,6-5,254,4.54,33.5,17.0,115.0,6.81,4.01,Denver Broncos / 2nd / 61st pick / 2006
+4,5,2006,Leonard Pope,TE,22,7,Georgia,6-8,258,4.62,37.5,22.0,118.0,7.47,4.67,Arizona Cardinals / 3rd / 72nd pick / 2006
+5,6,2006,Jason Pociask,TE,23,0,Wisconsin,6-3,266,4.84,32.5,23.0,115.0,7.31,4.3,New York Jets / 5th / 150th pick / 2006
+6,7,2006,Tim Massaquoi,TE,23,0,Michigan,6-3,259,4.85,,32.0,,,,Tampa Bay Buccaneers / 7th / 244th pick / 2006
+7,8,2006,Marcedes Lewis,TE,21,41,UCLA,6-6,261,4.8,37.0,23.0,118.0,7.24,4.82,Jacksonville Jaguars / 1st / 28th pick / 2006
+8,9,2006,Joe Klopfenstein,TE,22,3,Colorado,6-6,255,4.63,36.0,27.0,112.0,7.39,4.21,St. Louis Rams / 2nd / 46th pick / 2006
+9,10,2006,Jeff King,TE,23,11,Virginia Tech,6-5,245,4.83,32.5,21.0,109.0,6.99,4.09,Carolina Panthers / 5th / 155th pick / 2006
+10,11,2006,Daniel Fells,TE,22,12,California-Davis,6-3,259,4.95,29.5,19.0,108.0,7.27,4.46,
+11,12,2006,Anthony Fasano,TE,21,29,Notre Dame,6-4,259,4.72,33.5,19.0,112.0,6.94,4.34,Dallas Cowboys / 2nd / 53rd pick / 2006
+12,13,2006,Vernon Davis,TE,22,65,Maryland,6-3,254,4.38,42.0,33.0,128.0,7.0,4.17,San Francisco 49ers / 1st / 6th pick / 2006
+13,14,2006,Owen Daniels,TE,23,49,Wisconsin,6-3,253,4.65,34.5,23.0,114.0,6.87,4.1,Houston Texans / 4th / 98th pick / 2006
+14,15,2006,Dominique Byrd,TE,22,0,USC,6-3,255,4.79,,,,,,St. Louis Rams / 3rd / 93rd pick / 2006
+15,16,2006,Troy Bienemann,TE,23,0,Washington State,6-5,256,4.8,,,,,,

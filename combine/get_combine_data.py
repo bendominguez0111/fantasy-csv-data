@@ -17,7 +17,9 @@ def scrape_pfr_data():
             table = soup.find('table')
             df = pd.read_html(str(table))[0]
 
-            df.to_csv(os.path.join(combine_data_dir, str(year) + '/' + f'{position}.csv'))
+            df = df.drop('College', axis=1)
+
+            df.to_csv(os.path.join(combine_data_dir, str(year) + '/' + f'{position}.csv'), index=True)
 
 def join_csv_files():
     final_df = pd.DataFrame()
@@ -30,4 +32,5 @@ def join_csv_files():
     final_df.to_csv(os.path.join(base_dir, 'combine00to20.csv'))
 
 if __name__ == '__main__':
-    scrape_pfr_data()
+    # scrape_pfr_data()
+    join_csv_files()

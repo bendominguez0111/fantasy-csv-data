@@ -1,28 +1,28 @@
-,Rk,Year,Player,Pos,Age,AV,School,College,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
-0,1,2013,Cierre Wood,RB,22,0,Notre Dame,College Stats,5-11,213,4.56,37.5,16.0,124.0,,,
-1,2,2013,George Winn,RB,22,0,Cincinnati,College Stats,5-10,218,4.75,34.5,22.0,119.0,,,
-2,3,2013,Kerwynn Williams,RB,21,6,Utah State,College Stats,5-8,195,4.48,35.0,17.0,118.0,7.15,4.15,Indianapolis Colts / 7th / 230th pick / 2013
-3,4,2013,Spencer Ware,RB,21,18,LSU,College Stats,5-10,228,4.62,,,,,,Seattle Seahawks / 6th / 194th pick / 2013
-4,5,2013,Matthew Tucker,RB,21,0,TCU,College Stats,6-0,221,4.55,35.5,17.0,118.0,,,
-5,6,2013,Chris Thompson,RB,22,21,Florida State,College Stats,5-7,192,4.42,,21.0,,,,Washington Redskins / 5th / 154th pick / 2013
-6,7,2013,Stepfan Taylor,RB,21,3,Stanford,College Stats,5-9,214,4.76,30.0,17.0,110.0,7.13,4.5,Arizona Cardinals / 5th / 140th pick / 2013
-7,8,2013,Zac Stacy,RB,21,11,Vanderbilt,College Stats,5-8,216,4.55,33.0,27.0,122.0,6.7,4.17,St. Louis Rams / 5th / 160th pick / 2013
-8,9,2013,Theo Riddick,RB,21,26,Notre Dame,College Stats,5-10,201,4.68,32.0,,118.0,,,Detroit Lions / 6th / 199th pick / 2013
-9,10,2013,Joseph Randle,RB,21,7,Oklahoma State,College Stats,6-0,204,4.63,35.0,,123.0,,,Dallas Cowboys / 5th / 151st pick / 2013
-10,11,2013,Christine Michael,RB,22,9,Texas A&M,College Stats,5-10,220,4.54,43.0,27.0,125.0,6.69,4.02,Seattle Seahawks / 2nd / 62nd pick / 2013
-11,12,2013,Onterio McCalebb,RB,23,0,Auburn,College Stats,5-10,168,4.34,34.0,,121.0,,,
-12,13,2013,Marcus Lattimore,RB,21,0,South Carolina,College Stats,5-11,221,4.65,,,,,,San Francisco 49ers / 4th / 131st pick / 2013
-13,14,2013,Eddie Lacy,RB,22,38,Alabama,College Stats,5-11,231,4.55,,,,,,Green Bay Packers / 2nd / 61st pick / 2013
-14,15,2013,Mike James,RB,21,2,Miami (FL),College Stats,5-10,223,4.53,35.0,28.0,115.0,,4.62,Tampa Bay Buccaneers / 6th / 189th pick / 2013
-15,16,2013,Ray Graham,RB,22,0,Pittsburgh,College Stats,5-9,199,4.8,32.5,18.0,112.0,7.17,4.21,
-16,17,2013,Mike Gillislee,RB,22,10,Florida,College Stats,5-11,208,4.55,30.5,15.0,119.0,7.12,4.4,Miami Dolphins / 5th / 164th pick / 2013
-17,18,2013,Johnathan Franklin,RB,23,1,UCLA,College Stats,5-10,205,4.49,31.5,18.0,115.0,6.89,4.31,Green Bay Packers / 4th / 125th pick / 2013
-18,19,2013,Michael Ford,RB,22,0,LSU,College Stats,5-9,210,4.5,38.5,25.0,130.0,6.87,4.25,
-19,20,2013,Andre Ellington,RB,24,19,Clemson,College Stats,5-9,199,4.61,34.0,,122.0,,,Arizona Cardinals / 6th / 187th pick / 2013
-20,21,2013,Knile Davis,RB,21,10,Arkansas,College Stats,5-11,227,4.37,33.5,31.0,121.0,6.96,4.38,Kansas City Chiefs / 3rd / 96th pick / 2013
-21,22,2013,Rex Burkhead,RB,22,16,Nebraska,College Stats,5-10,214,4.73,39.0,21.0,125.0,6.85,4.09,Cincinnati Bengals / 6th / 190th pick / 2013
-22,23,2013,Giovani Bernard,RB,21,42,North Carolina,College Stats,5-8,202,4.53,33.5,19.0,122.0,6.91,4.12,Cincinnati Bengals / 2nd / 37th pick / 2013
-23,24,2013,Le'Veon Bell,RB,21,65,Michigan State,College Stats,6-1,230,4.6,31.5,24.0,118.0,6.75,4.24,Pittsburgh Steelers / 2nd / 48th pick / 2013
-24,25,2013,Kenjon Barner,RB,22,4,Oregon,College Stats,5-9,196,4.52,35.5,20.0,122.0,6.87,4.2,Carolina Panthers / 6th / 182nd pick / 2013
-25,26,2013,Montee Ball,RB,22,8,Wisconsin,College Stats,5-10,214,4.66,32.0,15.0,118.0,6.88,4.4,Denver Broncos / 2nd / 58th pick / 2013
-26,27,2013,C.J. Anderson,RB,22,28,California,College Stats,5-8,224,4.6,32.0,17.0,119.0,7.15,4.12,
+,Rk,Year,Player,Pos,Age,AV,School,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+0,1,2013,Cierre Wood,RB,22,0,Notre Dame,5-11,213,4.56,37.5,16.0,124.0,,,
+1,2,2013,George Winn,RB,22,0,Cincinnati,5-10,218,4.75,34.5,22.0,119.0,,,
+2,3,2013,Kerwynn Williams,RB,21,6,Utah State,5-8,195,4.48,35.0,17.0,118.0,7.15,4.15,Indianapolis Colts / 7th / 230th pick / 2013
+3,4,2013,Spencer Ware,RB,21,18,LSU,5-10,228,4.62,,,,,,Seattle Seahawks / 6th / 194th pick / 2013
+4,5,2013,Matthew Tucker,RB,21,0,TCU,6-0,221,4.55,35.5,17.0,118.0,,,
+5,6,2013,Chris Thompson,RB,22,21,Florida State,5-7,192,4.42,,21.0,,,,Washington Redskins / 5th / 154th pick / 2013
+6,7,2013,Stepfan Taylor,RB,21,3,Stanford,5-9,214,4.76,30.0,17.0,110.0,7.13,4.5,Arizona Cardinals / 5th / 140th pick / 2013
+7,8,2013,Zac Stacy,RB,21,11,Vanderbilt,5-8,216,4.55,33.0,27.0,122.0,6.7,4.17,St. Louis Rams / 5th / 160th pick / 2013
+8,9,2013,Theo Riddick,RB,21,26,Notre Dame,5-10,201,4.68,32.0,,118.0,,,Detroit Lions / 6th / 199th pick / 2013
+9,10,2013,Joseph Randle,RB,21,7,Oklahoma State,6-0,204,4.63,35.0,,123.0,,,Dallas Cowboys / 5th / 151st pick / 2013
+10,11,2013,Christine Michael,RB,22,9,Texas A&M,5-10,220,4.54,43.0,27.0,125.0,6.69,4.02,Seattle Seahawks / 2nd / 62nd pick / 2013
+11,12,2013,Onterio McCalebb,RB,23,0,Auburn,5-10,168,4.34,34.0,,121.0,,,
+12,13,2013,Marcus Lattimore,RB,21,0,South Carolina,5-11,221,4.65,,,,,,San Francisco 49ers / 4th / 131st pick / 2013
+13,14,2013,Eddie Lacy,RB,22,38,Alabama,5-11,231,4.55,,,,,,Green Bay Packers / 2nd / 61st pick / 2013
+14,15,2013,Mike James,RB,21,2,Miami (FL),5-10,223,4.53,35.0,28.0,115.0,,4.62,Tampa Bay Buccaneers / 6th / 189th pick / 2013
+15,16,2013,Ray Graham,RB,22,0,Pittsburgh,5-9,199,4.8,32.5,18.0,112.0,7.17,4.21,
+16,17,2013,Mike Gillislee,RB,22,10,Florida,5-11,208,4.55,30.5,15.0,119.0,7.12,4.4,Miami Dolphins / 5th / 164th pick / 2013
+17,18,2013,Johnathan Franklin,RB,23,1,UCLA,5-10,205,4.49,31.5,18.0,115.0,6.89,4.31,Green Bay Packers / 4th / 125th pick / 2013
+18,19,2013,Michael Ford,RB,22,0,LSU,5-9,210,4.5,38.5,25.0,130.0,6.87,4.25,
+19,20,2013,Andre Ellington,RB,24,19,Clemson,5-9,199,4.61,34.0,,122.0,,,Arizona Cardinals / 6th / 187th pick / 2013
+20,21,2013,Knile Davis,RB,21,10,Arkansas,5-11,227,4.37,33.5,31.0,121.0,6.96,4.38,Kansas City Chiefs / 3rd / 96th pick / 2013
+21,22,2013,Rex Burkhead,RB,22,16,Nebraska,5-10,214,4.73,39.0,21.0,125.0,6.85,4.09,Cincinnati Bengals / 6th / 190th pick / 2013
+22,23,2013,Giovani Bernard,RB,21,42,North Carolina,5-8,202,4.53,33.5,19.0,122.0,6.91,4.12,Cincinnati Bengals / 2nd / 37th pick / 2013
+23,24,2013,Le'Veon Bell,RB,21,65,Michigan State,6-1,230,4.6,31.5,24.0,118.0,6.75,4.24,Pittsburgh Steelers / 2nd / 48th pick / 2013
+24,25,2013,Kenjon Barner,RB,22,4,Oregon,5-9,196,4.52,35.5,20.0,122.0,6.87,4.2,Carolina Panthers / 6th / 182nd pick / 2013
+25,26,2013,Montee Ball,RB,22,8,Wisconsin,5-10,214,4.66,32.0,15.0,118.0,6.88,4.4,Denver Broncos / 2nd / 58th pick / 2013
+26,27,2013,C.J. Anderson,RB,22,28,California,5-8,224,4.6,32.0,17.0,119.0,7.15,4.12,

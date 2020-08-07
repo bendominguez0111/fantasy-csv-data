@@ -1,18 +1,18 @@
-,Rk,Year,Player,Pos,Age,AV,School,College,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
-0,1,2018,Darrel Williams,RB,22,4,LSU,College Stats,6-0,225,4.72,32.0,22.0,109.0,,4.21,
-1,2,2018,Jordan Wilkins,RB,23,5,Mississippi,College Stats,6-1,216,,36.0,16.0,117.0,,4.27,Indianapolis Colts / 5th / 169th pick / 2018
-2,3,2018,Mark Walton,RB,20,3,Miami (FL),College Stats,5-10,202,4.6,31.5,18.0,118.0,,,Cincinnati Bengals / 4th / 112th pick / 2018
-3,4,2018,Bo Scarbrough,RB,21,2,Alabama,College Stats,6-1,228,4.52,40.0,14.0,129.0,,4.34,Dallas Cowboys / 7th / 236th pick / 2018
-4,5,2018,Rashaad Penny,RB,22,7,San Diego State,College Stats,5-11,220,4.46,32.5,13.0,120.0,,,Seattle Seahawks / 1st / 27th pick / 2018
-5,6,2018,Sony Michel,RB,23,12,Georgia,College Stats,5-11,214,4.54,,22.0,,,4.21,New England Patriots / 1st / 31st pick / 2018
-6,7,2018,John Kelly,RB,21,1,Tennessee,College Stats,5-10,216,,35.0,15.0,120.0,7.13,4.51,Los Angeles Rams / 6th / 176th pick / 2018
-7,8,2018,Kerryon Johnson,RB,20,8,Auburn,College Stats,5-11,213,,40.0,11.0,126.0,7.07,4.29,Detroit Lions / 2nd / 43rd pick / 2018
-8,9,2018,Justin Jackson,RB,22,4,Northwestern,College Stats,6-0,199,4.52,38.5,13.0,122.0,6.81,4.07,Los Angeles Chargers / 7th / 251st pick / 2018
-9,10,2018,Nyheim Hines,RB,21,12,North Carolina State,College Stats,5-8,198,4.38,35.5,,119.0,7.18,4.35,Indianapolis Colts / 4th / 104th pick / 2018
-10,11,2018,Derrius Guice,RB,20,2,LSU,College Stats,5-10,224,4.49,31.5,15.0,,,,Washington Redskins / 2nd / 59th pick / 2018
-11,12,2018,Royce Freeman,RB,22,8,Oregon,College Stats,5-11,229,4.54,34.0,17.0,118.0,6.9,4.16,Denver Broncos / 3rd / 71st pick / 2018
-12,13,2018,Chase Edmonds,RB,21,5,Fordham,,5-9,205,4.55,34.0,19.0,122.0,6.79,4.07,Arizona Cardinals / 4th / 134th pick / 2018
-13,14,2018,Nick Chubb,RB,22,18,Georgia,College Stats,5-11,227,4.52,38.5,29.0,128.0,7.09,4.25,Cleveland Browns / 2nd / 35th pick / 2018
-14,15,2018,Saquon Barkley,RB,21,23,Penn State,College Stats,6-0,233,4.4,41.0,29.0,,,4.24,New York Giants / 1st / 2nd pick / 2018
-15,16,2018,Kalen Ballage,RB,22,3,Arizona State,College Stats,6-1,228,4.46,33.5,15.0,122.0,6.91,4.35,Miami Dolphins / 4th / 131st pick / 2018
-16,17,2018,Josh Adams,RB,21,3,Notre Dame,College Stats,6-2,213,,,18.0,,,,
+,Rk,Year,Player,Pos,Age,AV,School,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+0,1,2018,Darrel Williams,RB,22,4,LSU,6-0,225,4.72,32.0,22.0,109.0,,4.21,
+1,2,2018,Jordan Wilkins,RB,23,5,Mississippi,6-1,216,,36.0,16.0,117.0,,4.27,Indianapolis Colts / 5th / 169th pick / 2018
+2,3,2018,Mark Walton,RB,20,3,Miami (FL),5-10,202,4.6,31.5,18.0,118.0,,,Cincinnati Bengals / 4th / 112th pick / 2018
+3,4,2018,Bo Scarbrough,RB,21,2,Alabama,6-1,228,4.52,40.0,14.0,129.0,,4.34,Dallas Cowboys / 7th / 236th pick / 2018
+4,5,2018,Rashaad Penny,RB,22,7,San Diego State,5-11,220,4.46,32.5,13.0,120.0,,,Seattle Seahawks / 1st / 27th pick / 2018
+5,6,2018,Sony Michel,RB,23,12,Georgia,5-11,214,4.54,,22.0,,,4.21,New England Patriots / 1st / 31st pick / 2018
+6,7,2018,John Kelly,RB,21,1,Tennessee,5-10,216,,35.0,15.0,120.0,7.13,4.51,Los Angeles Rams / 6th / 176th pick / 2018
+7,8,2018,Kerryon Johnson,RB,20,8,Auburn,5-11,213,,40.0,11.0,126.0,7.07,4.29,Detroit Lions / 2nd / 43rd pick / 2018
+8,9,2018,Justin Jackson,RB,22,4,Northwestern,6-0,199,4.52,38.5,13.0,122.0,6.81,4.07,Los Angeles Chargers / 7th / 251st pick / 2018
+9,10,2018,Nyheim Hines,RB,21,12,North Carolina State,5-8,198,4.38,35.5,,119.0,7.18,4.35,Indianapolis Colts / 4th / 104th pick / 2018
+10,11,2018,Derrius Guice,RB,20,2,LSU,5-10,224,4.49,31.5,15.0,,,,Washington Redskins / 2nd / 59th pick / 2018
+11,12,2018,Royce Freeman,RB,22,8,Oregon,5-11,229,4.54,34.0,17.0,118.0,6.9,4.16,Denver Broncos / 3rd / 71st pick / 2018
+12,13,2018,Chase Edmonds,RB,21,5,Fordham,5-9,205,4.55,34.0,19.0,122.0,6.79,4.07,Arizona Cardinals / 4th / 134th pick / 2018
+13,14,2018,Nick Chubb,RB,22,18,Georgia,5-11,227,4.52,38.5,29.0,128.0,7.09,4.25,Cleveland Browns / 2nd / 35th pick / 2018
+14,15,2018,Saquon Barkley,RB,21,23,Penn State,6-0,233,4.4,41.0,29.0,,,4.24,New York Giants / 1st / 2nd pick / 2018
+15,16,2018,Kalen Ballage,RB,22,3,Arizona State,6-1,228,4.46,33.5,15.0,122.0,6.91,4.35,Miami Dolphins / 4th / 131st pick / 2018
+16,17,2018,Josh Adams,RB,21,3,Notre Dame,6-2,213,,,18.0,,,,

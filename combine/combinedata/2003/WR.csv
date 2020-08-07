@@ -1,29 +1,29 @@
-,Rk,Year,Player,Pos,Age,AV,School,College,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
-0,1,2003,Walter Young,WR,23,0,Illinois,College Stats,6-5,214,4.54,39.0,,121.0,6.9,4.25,Carolina Panthers / 7th / 226th pick / 2003
-1,2,2003,Kelley Washington,WR,23,14,Tennessee,College Stats,6-2,223,4.42,,,,,,Cincinnati Bengals / 3rd / 65th pick / 2003
-2,3,2003,Bobby Wade,WR,22,25,Arizona,College Stats,5-10,193,4.66,34.5,,115.0,7.01,4.11,Chicago Bears / 5th / 139th pick / 2003
-3,4,2003,Charles Rogers,WR,21,4,Michigan State,College Stats,6-2,202,4.4,,,,,,Detroit Lions / 1st / 2nd pick / 2003
-4,5,2003,Kassim Osgood,WR,22,8,San Diego State,College Stats,6-5,208,4.68,31.0,,122.0,7.19,4.44,
-5,6,2003,Billy McMullen,WR,22,5,Virginia,College Stats,6-4,210,4.61,,,,,,Philadelphia Eagles / 3rd / 95th pick / 2003
-6,7,2003,Shaun McDonald,WR,21,20,Arizona State,College Stats,5-8,169,4.43,,,,,,St. Louis Rams / 4th / 106th pick / 2003
-7,8,2003,Reno Mahe,WR,22,3,BYU,College Stats,5-9,198,4.68,32.0,,109.0,7.27,4.23,
-8,9,2003,Adrian Madise,WR,22,0,TCU,College Stats,5-11,215,4.49,32.0,,119.0,7.32,4.26,Denver Broncos / 5th / 158th pick / 2003
-9,10,2003,Brandon Lloyd,WR,21,48,Illinois,College Stats,6-0,184,4.62,36.0,,,,,San Francisco 49ers / 4th / 124th pick / 2003
-10,11,2003,Teyo Johnson,WR,21,2,Stanford,College Stats,6-5,247,4.61,33.5,,,,,Oakland Raiders / 2nd / 63rd pick / 2003
-11,12,2003,Bryant Johnson,WR,21,30,Penn State,College Stats,6-2,214,4.57,,,,,,Arizona Cardinals / 1st / 17th pick / 2003
-12,13,2003,Bethel Johnson,WR,24,8,Texas A&M,College Stats,5-11,201,4.38,38.5,,127.0,,,New England Patriots / 2nd / 45th pick / 2003
-13,14,2003,Andre Johnson,WR,21,125,Miami (FL),College Stats,6-2,230,4.41,39.0,,132.0,,,Houston Texans / 1st / 3rd pick / 2003
-14,15,2003,Taylor Jacobs,WR,21,2,Florida,College Stats,6-0,205,4.42,,,,,,Washington Redskins / 2nd / 44th pick / 2003
-15,16,2003,Keenan Howry,WR,21,0,Oregon,College Stats,5-10,178,4.56,31.5,,114.0,7.34,4.28,Minnesota Vikings / 7th / 221st pick / 2003
-16,17,2003,Talman Gardner,WR,22,0,Florida State,College Stats,6-1,205,4.44,34.5,,116.0,7.54,4.43,New Orleans Saints / 7th / 231st pick / 2003
-17,18,2003,Justin Gage,WR,22,28,Missouri,College Stats,6-4,217,4.45,,,,,,Chicago Bears / 5th / 143rd pick / 2003
-18,19,2003,Doug Gabriel,WR,22,15,Central Florida,College Stats,6-2,213,4.52,35.5,,116.0,7.05,4.16,Oakland Raiders / 5th / 167th pick / 2003
-19,20,2003,Terrence Edwards,WR,23,0,Georgia,College Stats,6-0,176,4.5,,,,,,
-20,21,2003,LaTarence Dunbar,WR,22,0,TCU,College Stats,5-11,196,4.52,34.0,,122.0,7.41,4.35,Atlanta Falcons / 6th / 196th pick / 2003
-21,22,2003,Kevin Curtis,WR,24,28,Utah State,College Stats,5-11,186,4.42,36.0,,122.0,6.76,3.99,St. Louis Rams / 3rd / 74th pick / 2003
-22,23,2003,Tyrone Calico,WR,22,5,Middle Tennessee State,College Stats,6-4,223,4.34,38.0,,127.0,6.73,4.26,Tennessee Titans / 2nd / 60th pick / 2003
-23,24,2003,Nate Burleson,WR,21,55,Nevada,College Stats,6-0,197,4.51,42.5,,126.0,6.96,4.16,Minnesota Vikings / 3rd / 71st pick / 2003
-24,25,2003,Anquan Boldin,WR,22,118,Florida State,College Stats,6-1,216,4.72,33.5,,114.0,7.35,4.33,Arizona Cardinals / 2nd / 54th pick / 2003
-25,26,2003,Ronald Bellamy,WR,21,0,Michigan,College Stats,6-0,208,4.57,30.5,,119.0,7.38,4.1,
-26,27,2003,Arnaz Battle,WR,23,19,Notre Dame,College Stats,6-1,217,4.58,35.0,,117.0,6.74,4.06,San Francisco 49ers / 6th / 197th pick / 2003
-27,28,2003,Sam Aiken,WR,22,7,North Carolina,College Stats,6-2,209,4.59,39.5,,121.0,7.22,,Buffalo Bills / 4th / 127th pick / 2003
+,Rk,Year,Player,Pos,Age,AV,School,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+0,1,2003,Walter Young,WR,23,0,Illinois,6-5,214,4.54,39.0,,121.0,6.9,4.25,Carolina Panthers / 7th / 226th pick / 2003
+1,2,2003,Kelley Washington,WR,23,14,Tennessee,6-2,223,4.42,,,,,,Cincinnati Bengals / 3rd / 65th pick / 2003
+2,3,2003,Bobby Wade,WR,22,25,Arizona,5-10,193,4.66,34.5,,115.0,7.01,4.11,Chicago Bears / 5th / 139th pick / 2003
+3,4,2003,Charles Rogers,WR,21,4,Michigan State,6-2,202,4.4,,,,,,Detroit Lions / 1st / 2nd pick / 2003
+4,5,2003,Kassim Osgood,WR,22,8,San Diego State,6-5,208,4.68,31.0,,122.0,7.19,4.44,
+5,6,2003,Billy McMullen,WR,22,5,Virginia,6-4,210,4.61,,,,,,Philadelphia Eagles / 3rd / 95th pick / 2003
+6,7,2003,Shaun McDonald,WR,21,20,Arizona State,5-8,169,4.43,,,,,,St. Louis Rams / 4th / 106th pick / 2003
+7,8,2003,Reno Mahe,WR,22,3,BYU,5-9,198,4.68,32.0,,109.0,7.27,4.23,
+8,9,2003,Adrian Madise,WR,22,0,TCU,5-11,215,4.49,32.0,,119.0,7.32,4.26,Denver Broncos / 5th / 158th pick / 2003
+9,10,2003,Brandon Lloyd,WR,21,48,Illinois,6-0,184,4.62,36.0,,,,,San Francisco 49ers / 4th / 124th pick / 2003
+10,11,2003,Teyo Johnson,WR,21,2,Stanford,6-5,247,4.61,33.5,,,,,Oakland Raiders / 2nd / 63rd pick / 2003
+11,12,2003,Bryant Johnson,WR,21,30,Penn State,6-2,214,4.57,,,,,,Arizona Cardinals / 1st / 17th pick / 2003
+12,13,2003,Bethel Johnson,WR,24,8,Texas A&M,5-11,201,4.38,38.5,,127.0,,,New England Patriots / 2nd / 45th pick / 2003
+13,14,2003,Andre Johnson,WR,21,125,Miami (FL),6-2,230,4.41,39.0,,132.0,,,Houston Texans / 1st / 3rd pick / 2003
+14,15,2003,Taylor Jacobs,WR,21,2,Florida,6-0,205,4.42,,,,,,Washington Redskins / 2nd / 44th pick / 2003
+15,16,2003,Keenan Howry,WR,21,0,Oregon,5-10,178,4.56,31.5,,114.0,7.34,4.28,Minnesota Vikings / 7th / 221st pick / 2003
+16,17,2003,Talman Gardner,WR,22,0,Florida State,6-1,205,4.44,34.5,,116.0,7.54,4.43,New Orleans Saints / 7th / 231st pick / 2003
+17,18,2003,Justin Gage,WR,22,28,Missouri,6-4,217,4.45,,,,,,Chicago Bears / 5th / 143rd pick / 2003
+18,19,2003,Doug Gabriel,WR,22,15,Central Florida,6-2,213,4.52,35.5,,116.0,7.05,4.16,Oakland Raiders / 5th / 167th pick / 2003
+19,20,2003,Terrence Edwards,WR,23,0,Georgia,6-0,176,4.5,,,,,,
+20,21,2003,LaTarence Dunbar,WR,22,0,TCU,5-11,196,4.52,34.0,,122.0,7.41,4.35,Atlanta Falcons / 6th / 196th pick / 2003
+21,22,2003,Kevin Curtis,WR,24,28,Utah State,5-11,186,4.42,36.0,,122.0,6.76,3.99,St. Louis Rams / 3rd / 74th pick / 2003
+22,23,2003,Tyrone Calico,WR,22,5,Middle Tennessee State,6-4,223,4.34,38.0,,127.0,6.73,4.26,Tennessee Titans / 2nd / 60th pick / 2003
+23,24,2003,Nate Burleson,WR,21,55,Nevada,6-0,197,4.51,42.5,,126.0,6.96,4.16,Minnesota Vikings / 3rd / 71st pick / 2003
+24,25,2003,Anquan Boldin,WR,22,118,Florida State,6-1,216,4.72,33.5,,114.0,7.35,4.33,Arizona Cardinals / 2nd / 54th pick / 2003
+25,26,2003,Ronald Bellamy,WR,21,0,Michigan,6-0,208,4.57,30.5,,119.0,7.38,4.1,
+26,27,2003,Arnaz Battle,WR,23,19,Notre Dame,6-1,217,4.58,35.0,,117.0,6.74,4.06,San Francisco 49ers / 6th / 197th pick / 2003
+27,28,2003,Sam Aiken,WR,22,7,North Carolina,6-2,209,4.59,39.5,,121.0,7.22,,Buffalo Bills / 4th / 127th pick / 2003

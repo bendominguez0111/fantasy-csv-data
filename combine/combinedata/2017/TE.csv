@@ -1,17 +1,17 @@
-,Rk,Year,Player,Pos,Age,AV,School,College,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
-0,1,2017,Jeremy Sprinkle,TE,22,2,Arkansas,College Stats,6-5,252,4.69,29.0,,116.0,,,Washington Redskins / 5th / 154th pick / 2017
-1,2,2017,Jonnu Smith,TE,21,7,Florida International,College Stats,6-3,248,4.62,38.0,22.0,127.0,,4.18,Tennessee Titans / 3rd / 100th pick / 2017
-2,3,2017,Adam Shaheen,TE,22,2,Ashland,,6-6,278,4.79,32.5,24.0,121.0,7.09,4.38,Chicago Bears / 2nd / 45th pick / 2017
-3,4,2017,Eric Saubert,TE,22,0,Drake,,6-5,253,,33.0,22.0,121.0,,,Atlanta Falcons / 5th / 174th pick / 2017
-4,5,2017,Michael Roberts,TE,22,1,Toledo,College Stats,6-4,270,4.86,30.0,,110.0,7.05,4.51,Detroit Lions / 4th / 127th pick / 2017
-5,6,2017,David Njoku,TE,20,7,Miami (FL),College Stats,6-4,246,4.64,37.5,21.0,133.0,6.97,4.34,Cleveland Browns / 1st / 29th pick / 2017
-6,7,2017,Jordan Leggett,TE,22,1,Clemson,College Stats,6-5,258,,33.0,18.0,114.0,7.12,4.33,New York Jets / 5th / 150th pick / 2017
-7,8,2017,George Kittle,TE,23,25,Iowa,College Stats,6-4,247,4.52,35.0,18.0,132.0,,,San Francisco 49ers / 5th / 146th pick / 2017
-8,9,2017,O.J. Howard,TE,22,11,Alabama,College Stats,6-6,251,4.51,30.0,22.0,121.0,6.85,4.16,Tampa Bay Buccaneers / 1st / 19th pick / 2017
-9,10,2017,Cole Hikutini,TE,22,0,Louisville,College Stats,6-4,247,,,20.0,,,,
-10,11,2017,Gerald Everett,TE,22,9,South Alabama,College Stats,6-3,239,4.62,37.5,22.0,126.0,6.99,4.33,Los Angeles Rams / 2nd / 44th pick / 2017
-11,12,2017,Evan Engram,TE,22,14,Mississippi,College Stats,6-3,234,4.42,36.0,19.0,125.0,6.92,4.23,New York Giants / 1st / 23rd pick / 2017
-12,13,2017,Darrell Daniels,TE,22,0,Washington,College Stats,6-3,247,4.55,32.0,17.0,116.0,7.09,4.47,
-13,14,2017,Cethan Carter,TE,21,0,Nebraska,College Stats,6-3,241,4.68,,19.0,,,,
-14,15,2017,Jake Butt,TE,21,1,Michigan,College Stats,6-5,246,,,,,,,Denver Broncos / 5th / 145th pick / 2017
-15,16,2017,Pharaoh Brown,TE,22,0,Oregon,College Stats,6-6,255,,34.0,24.0,,,,
+,Rk,Year,Player,Pos,Age,AV,School,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+0,1,2017,Jeremy Sprinkle,TE,22,2,Arkansas,6-5,252,4.69,29.0,,116.0,,,Washington Redskins / 5th / 154th pick / 2017
+1,2,2017,Jonnu Smith,TE,21,7,Florida International,6-3,248,4.62,38.0,22.0,127.0,,4.18,Tennessee Titans / 3rd / 100th pick / 2017
+2,3,2017,Adam Shaheen,TE,22,2,Ashland,6-6,278,4.79,32.5,24.0,121.0,7.09,4.38,Chicago Bears / 2nd / 45th pick / 2017
+3,4,2017,Eric Saubert,TE,22,0,Drake,6-5,253,,33.0,22.0,121.0,,,Atlanta Falcons / 5th / 174th pick / 2017
+4,5,2017,Michael Roberts,TE,22,1,Toledo,6-4,270,4.86,30.0,,110.0,7.05,4.51,Detroit Lions / 4th / 127th pick / 2017
+5,6,2017,David Njoku,TE,20,7,Miami (FL),6-4,246,4.64,37.5,21.0,133.0,6.97,4.34,Cleveland Browns / 1st / 29th pick / 2017
+6,7,2017,Jordan Leggett,TE,22,1,Clemson,6-5,258,,33.0,18.0,114.0,7.12,4.33,New York Jets / 5th / 150th pick / 2017
+7,8,2017,George Kittle,TE,23,25,Iowa,6-4,247,4.52,35.0,18.0,132.0,,,San Francisco 49ers / 5th / 146th pick / 2017
+8,9,2017,O.J. Howard,TE,22,11,Alabama,6-6,251,4.51,30.0,22.0,121.0,6.85,4.16,Tampa Bay Buccaneers / 1st / 19th pick / 2017
+9,10,2017,Cole Hikutini,TE,22,0,Louisville,6-4,247,,,20.0,,,,
+10,11,2017,Gerald Everett,TE,22,9,South Alabama,6-3,239,4.62,37.5,22.0,126.0,6.99,4.33,Los Angeles Rams / 2nd / 44th pick / 2017
+11,12,2017,Evan Engram,TE,22,14,Mississippi,6-3,234,4.42,36.0,19.0,125.0,6.92,4.23,New York Giants / 1st / 23rd pick / 2017
+12,13,2017,Darrell Daniels,TE,22,0,Washington,6-3,247,4.55,32.0,17.0,116.0,7.09,4.47,
+13,14,2017,Cethan Carter,TE,21,0,Nebraska,6-3,241,4.68,,19.0,,,,
+14,15,2017,Jake Butt,TE,21,1,Michigan,6-5,246,,,,,,,Denver Broncos / 5th / 145th pick / 2017
+15,16,2017,Pharaoh Brown,TE,22,0,Oregon,6-6,255,,34.0,24.0,,,,

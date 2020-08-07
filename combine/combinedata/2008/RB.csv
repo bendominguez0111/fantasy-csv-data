@@ -1,24 +1,24 @@
-,Rk,Year,Player,Pos,Age,AV,School,College,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
-0,1,2008,Chauncey Washington,RB,22,0,USC,College Stats,5-11,211,4.45,,,,,,Jacksonville Jaguars / 7th / 213th pick / 2008
-1,2,2008,Ryan Torain,RB,21,5,Arizona State,College Stats,6-0,222,4.61,34.0,21.0,120.0,,,Denver Broncos / 5th / 139th pick / 2008
-2,3,2008,Marcus Thomas,RB,23,0,Texas-El Paso,College Stats,6-0,213,4.59,30.0,21.0,116.0,,,San Diego Chargers / 5th / 166th pick / 2008
-3,4,2008,Jonathan Stewart,RB,20,59,Oregon,College Stats,5-10,235,4.46,36.5,28.0,128.0,,,Carolina Panthers / 1st / 13th pick / 2008
-4,5,2008,Kevin Smith,RB,21,20,Central Florida,College Stats,6-1,217,4.53,32.0,,120.0,6.74,4.49,Detroit Lions / 3rd / 64th pick / 2008
-5,6,2008,Steve Slaton,RB,22,20,West Virginia,College Stats,5-9,197,4.45,33.5,19.0,118.0,,,Houston Texans / 3rd / 89th pick / 2008
-6,7,2008,Chad Simpson,RB,22,3,South Florida,College Stats,5-9,216,4.4,32.5,,124.0,,,
-7,8,2008,Dantrell Savage,RB,23,1,Oklahoma State,College Stats,5-8,187,4.53,32.5,13.0,117.0,,,
-8,9,2008,Ray Rice,RB,21,70,Rutgers,College Stats,5-8,199,4.42,31.5,23.0,119.0,6.65,4.2,Baltimore Ravens / 2nd / 55th pick / 2008
-9,10,2008,Jalen Parmele,RB,22,1,Toledo,College Stats,5-11,224,4.47,34.0,19.0,125.0,6.96,4.29,Miami Dolphins / 6th / 176th pick / 2008
-10,11,2008,Xavier Omon,RB,23,0,Northwest Missouri State,,5-11,228,4.52,31.0,17.0,112.0,,,Buffalo Bills / 6th / 179th pick / 2008
-11,12,2008,Rashard Mendenhall,RB,20,31,Illinois,College Stats,5-10,225,4.41,33.5,26.0,117.0,,4.18,Pittsburgh Steelers / 1st / 23rd pick / 2008
-12,13,2008,Darren McFadden,RB,20,45,Arkansas,College Stats,6-1,211,4.33,33.0,,128.0,,,Oakland Raiders / 1st / 4th pick / 2008
-13,14,2008,Kregg Lumpkin,RB,23,3,Georgia,College Stats,5-11,226,4.68,28.0,22.0,111.0,,,
-14,15,2008,Felix Jones,RB,20,30,Arkansas,College Stats,5-10,207,4.44,33.5,,124.0,6.9,4.19,Dallas Cowboys / 1st / 22nd pick / 2008
-15,16,2008,Chris Johnson,RB,22,83,East Carolina,College Stats,5-11,197,4.24,35.0,,130.0,,,Tennessee Titans / 1st / 24th pick / 2008
-16,17,2008,Mike Hart,RB,21,3,Michigan,College Stats,5-9,206,4.69,28.0,23.0,110.0,,,Indianapolis Colts / 6th / 202nd pick / 2008
-17,18,2008,BenJarvus Green-Ellis,RB,22,34,Mississippi,College Stats,5-11,219,4.6,30.5,24.0,114.0,,,
-18,19,2008,Matt Forte,RB,22,100,Tulane,College Stats,6-1,217,4.44,33.0,23.0,118.0,6.84,4.23,Chicago Bears / 2nd / 44th pick / 2008
-19,20,2008,Justin Forsett,RB,22,35,California,College Stats,5-8,194,4.62,26.5,26.0,112.0,6.96,,Seattle Seahawks / 7th / 233rd pick / 2008
-20,21,2008,Tashard Choice,RB,23,14,Georgia Tech,College Stats,5-10,215,4.48,34.0,20.0,119.0,6.88,,Dallas Cowboys / 4th / 122nd pick / 2008
-21,22,2008,Jamaal Charles,RB,21,72,Texas,College Stats,5-11,200,4.38,30.5,,122.0,6.8,4.22,Kansas City Chiefs / 3rd / 73rd pick / 2008
-22,23,2008,Cory Boyd,RB,22,0,South Carolina,College Stats,6-0,213,4.52,33.5,25.0,118.0,6.97,4.24,Tampa Bay Buccaneers / 7th / 238th pick / 2008
+,Rk,Year,Player,Pos,Age,AV,School,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+0,1,2008,Chauncey Washington,RB,22,0,USC,5-11,211,4.45,,,,,,Jacksonville Jaguars / 7th / 213th pick / 2008
+1,2,2008,Ryan Torain,RB,21,5,Arizona State,6-0,222,4.61,34.0,21.0,120.0,,,Denver Broncos / 5th / 139th pick / 2008
+2,3,2008,Marcus Thomas,RB,23,0,Texas-El Paso,6-0,213,4.59,30.0,21.0,116.0,,,San Diego Chargers / 5th / 166th pick / 2008
+3,4,2008,Jonathan Stewart,RB,20,59,Oregon,5-10,235,4.46,36.5,28.0,128.0,,,Carolina Panthers / 1st / 13th pick / 2008
+4,5,2008,Kevin Smith,RB,21,20,Central Florida,6-1,217,4.53,32.0,,120.0,6.74,4.49,Detroit Lions / 3rd / 64th pick / 2008
+5,6,2008,Steve Slaton,RB,22,20,West Virginia,5-9,197,4.45,33.5,19.0,118.0,,,Houston Texans / 3rd / 89th pick / 2008
+6,7,2008,Chad Simpson,RB,22,3,South Florida,5-9,216,4.4,32.5,,124.0,,,
+7,8,2008,Dantrell Savage,RB,23,1,Oklahoma State,5-8,187,4.53,32.5,13.0,117.0,,,
+8,9,2008,Ray Rice,RB,21,70,Rutgers,5-8,199,4.42,31.5,23.0,119.0,6.65,4.2,Baltimore Ravens / 2nd / 55th pick / 2008
+9,10,2008,Jalen Parmele,RB,22,1,Toledo,5-11,224,4.47,34.0,19.0,125.0,6.96,4.29,Miami Dolphins / 6th / 176th pick / 2008
+10,11,2008,Xavier Omon,RB,23,0,Northwest Missouri State,5-11,228,4.52,31.0,17.0,112.0,,,Buffalo Bills / 6th / 179th pick / 2008
+11,12,2008,Rashard Mendenhall,RB,20,31,Illinois,5-10,225,4.41,33.5,26.0,117.0,,4.18,Pittsburgh Steelers / 1st / 23rd pick / 2008
+12,13,2008,Darren McFadden,RB,20,45,Arkansas,6-1,211,4.33,33.0,,128.0,,,Oakland Raiders / 1st / 4th pick / 2008
+13,14,2008,Kregg Lumpkin,RB,23,3,Georgia,5-11,226,4.68,28.0,22.0,111.0,,,
+14,15,2008,Felix Jones,RB,20,30,Arkansas,5-10,207,4.44,33.5,,124.0,6.9,4.19,Dallas Cowboys / 1st / 22nd pick / 2008
+15,16,2008,Chris Johnson,RB,22,83,East Carolina,5-11,197,4.24,35.0,,130.0,,,Tennessee Titans / 1st / 24th pick / 2008
+16,17,2008,Mike Hart,RB,21,3,Michigan,5-9,206,4.69,28.0,23.0,110.0,,,Indianapolis Colts / 6th / 202nd pick / 2008
+17,18,2008,BenJarvus Green-Ellis,RB,22,34,Mississippi,5-11,219,4.6,30.5,24.0,114.0,,,
+18,19,2008,Matt Forte,RB,22,100,Tulane,6-1,217,4.44,33.0,23.0,118.0,6.84,4.23,Chicago Bears / 2nd / 44th pick / 2008
+19,20,2008,Justin Forsett,RB,22,35,California,5-8,194,4.62,26.5,26.0,112.0,6.96,,Seattle Seahawks / 7th / 233rd pick / 2008
+20,21,2008,Tashard Choice,RB,23,14,Georgia Tech,5-10,215,4.48,34.0,20.0,119.0,6.88,,Dallas Cowboys / 4th / 122nd pick / 2008
+21,22,2008,Jamaal Charles,RB,21,72,Texas,5-11,200,4.38,30.5,,122.0,6.8,4.22,Kansas City Chiefs / 3rd / 73rd pick / 2008
+22,23,2008,Cory Boyd,RB,22,0,South Carolina,6-0,213,4.52,33.5,25.0,118.0,6.97,4.24,Tampa Bay Buccaneers / 7th / 238th pick / 2008
