@@ -2,9 +2,11 @@ import requests
 from bs4 import BeautifulSoup as BS
 import pandas as pd
 
-ENDPOINT = "https://www.fantasypros.com/nfl/rankings/consensus-cheatsheets.php"
-
-res = requests.get(ENDPOINT)
+BASE_URLS = {
+    "PPR": "https://www.fantasypros.com/nfl/rankings/ppr-cheatsheets.php",
+    "HALF_PPR": "https://www.fantasypros.com/nfl/rankings/half-point-ppr-cheatsheets.php",
+    "STANDARD": "https://www.fantasypros.com/nfl/rankings/consensus-cheatsheets.php"
+}
 
 #Christian McCaffreyC. McCaffrey CAR
 def get_player_name(name):
@@ -18,35 +20,38 @@ def get_player_name(name):
 
     return name
 
-if res.ok:
-    html = res.content
-    soup = BS(html, 'html.parser')
-    table = soup.find('table', {'id': 'rank-data'})
+for league_format, BASE_URL in BASE_URLS.items():
+    res = requests.get(BASE_URL)
 
-    df = pd.read_html(str(table))[0]
+    if res.ok:
+        html = res.content
+        soup = BS(html, 'html.parser')
+        table = soup.find('table', {'id': 'rank-data'})
 
-    df = df[1:]
+        df = pd.read_html(str(table))[0]
 
-    df = df.drop('WSID', axis=1)
+        df = df[1:]
 
-    df['Overall (Team)'] = df['Overall (Team)'].astype(str)
+        df = df.drop('WSID', axis=1)
 
-    df['Team'] = df['Overall (Team)'].apply(
-        lambda x: x.split()[-1]
-    )
+        df['Overall (Team)'] = df['Overall (Team)'].astype(str)
 
-    df['Player'] = df['Overall (Team)'].apply(get_player_name)
+        df['Team'] = df['Overall (Team)'].apply(
+            lambda x: x.split()[-1]
+        )
 
-    df = df.drop(['Overall (Team)', 'vs. ADP'], axis=1)
+        df['Player'] = df['Overall (Team)'].apply(get_player_name)
 
-    df['Rank'] = df['Rank'].astype(str)
+        df = df.drop(['Overall (Team)', 'vs. ADP'], axis=1)
 
-    for _, row in df.iterrows():
-        if 'Tier' in row['Rank']:
-            df = df.loc[df['Rank'] != row['Rank']]
+        df['Rank'] = df['Rank'].astype(str)
 
-    columns = [column for column in list(df.columns) if column != 'Player' and column != 'Team']
-    columns = ['Player', 'Team'] + columns
-    df = df[columns]
+        for _, row in df.iterrows():
+            if 'Tier' in row['Rank']:
+                df = df.loc[df['Rank'] != row['Rank']]
 
-    df.to_csv('ECR.csv')
+        columns = [column for column in list(df.columns) if column != 'Player' and column != 'Team']
+        columns = ['Player', 'Team'] + columns
+        df = df[columns]
+
+        df.to_csv(f'fantasypros/ecr/{league_format}_ECR.csv')
