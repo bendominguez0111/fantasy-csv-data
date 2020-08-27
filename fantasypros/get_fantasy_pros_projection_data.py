@@ -37,7 +37,7 @@ for pos in positions:
         df['RushingYds'] = df['YDS'].iloc[:, 0]
         df['ReceivingYds'] = df['YDS'].iloc[:, 1]
         df['RushingTD'] = df['TDS'].iloc[:, 0]
-        df['ReceivingTD'] = df['TDS'].iloc[:, 0]
+        df['ReceivingTD'] = df['TDS'].iloc[:, 1]
 
         df = df.drop([
             'YDS', 'TDS'
