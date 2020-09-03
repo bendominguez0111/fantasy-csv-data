@@ -153,4 +153,4 @@ df = pd.concat(dfs).fillna(0)
 columns = [column for column in df.columns if column != 'FantasyPoints'] + ['FantasyPoints']
 df = df[columns]
 df = df.sort_values(by='FantasyPoints', ascending=False)
-df.to_csv('fp_projections.csv')
+df.to_csv('fantasypros/fp_projections.csv')
