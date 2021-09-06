@@ -1,6 +1,0 @@
-# Available Fantasy Football Data Sets for Download
-
-## 2019 play by play data
-
-	import pandas as pd
-	df = pd.read_csv('https://raw.githubusercontent.com/fantasydatapros/data/master/2019pbp.csv
